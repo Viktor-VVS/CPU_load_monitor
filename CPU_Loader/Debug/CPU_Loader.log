@@ -1,0 +1,9 @@
+﻿  CPU_Usage.cpp
+c:\users\ira\desktop\программист\избранные проекты\с++\-- проверка cpu нагрузки\process_load\cpu_usage.cpp(7): warning C4005: _WIN32_WINNT: изменение макроопределения
+  c:\program files\windows kits\10\include\10.0.16299.0\shared\sdkddkver.h(215): note: см. предыдущее определение "_WIN32_WINNT"
+c:\users\ira\desktop\программист\избранные проекты\с++\-- проверка cpu нагрузки\process_load\cpu_usage.cpp(16): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+c:\users\ira\desktop\программист\избранные проекты\с++\-- проверка cpu нагрузки\process_load\cpu_usage.cpp(57): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\ira\desktop\программист\избранные проекты\с++\-- проверка cpu нагрузки\process_load\cpu_usage.cpp(71): warning C4091: typedef : пропускается слева от "SETTINGS", когда ни одна переменная не объявлена
+c:\users\ira\desktop\программист\избранные проекты\с++\-- проверка cpu нагрузки\process_load\cpu_usage.cpp(112): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\ira\desktop\программист\избранные проекты\с++\-- проверка cpu нагрузки\process_load\cpu_usage.cpp(115): warning C4018: >=: несоответствие типов со знаком и без знака
+  CPU_Loader.vcxproj -> C:\Users\IRA\source\repos\CPU_Loader\Debug\CPU_Loader.exe
